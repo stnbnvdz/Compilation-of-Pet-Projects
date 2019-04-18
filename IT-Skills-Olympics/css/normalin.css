@@ -1,0 +1,27 @@
+html{
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+body{
+  margin: 0;
+}
+h1{
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+a{
+  background-color: transparent;
+}
+img{
+  border-style: none;
+}
+input,select,text-area{
+  font-family: inherit;
+  font-size: 100%;
+  line-height;
+  margin: 0;
+}
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button{
+  height: auto;
+}
