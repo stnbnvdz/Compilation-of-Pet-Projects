@@ -9,4 +9,4 @@ compilation of pet projects i make during fun time.
 * [Responsive-Grid-using-Flexbox](https://github.com/stnbnvdz/Compilation-of-Practice-Projects/tree/master/Responsive-Grid-using-Flexbox) - practicing flexbox
 * [Sample Landing Page](https://github.com/stnbnvdz/Compilation-of-Practice-Projects/tree/master/Sample%20Landing%20Page) - JAB Tech webpage sample
 
-* [Rock Paper Scissor](https://github.com/stnbnvdz/Compilation-of-Practice-Projects/tree/master/Sample%20Landing%20Page) - JAB Tech webpage sample
+* [Rock Paper Scissor](https://github.com/stnbnvdz/Compilation-of-Practice-Projects/tree/master/Sample%20Landing%20Page) -  Using HTML,CSS and Javascript
