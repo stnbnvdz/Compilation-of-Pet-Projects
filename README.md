@@ -10,3 +10,5 @@ compilation of pet projects i make during fun time.
 * [Sample Landing Page](https://github.com/stnbnvdz/Compilation-of-Practice-Projects/tree/master/Sample%20Landing%20Page) - JAB Tech webpage sample
 
 * [Rock Paper Scissor](https://github.com/stnbnvdz/Compilation-of-Practice-Projects/tree/master/Sample%20Landing%20Page) -  Using HTML,CSS and Javascript
+
+* [Pure CSS Stick Navbar]
