@@ -9,12 +9,7 @@
       href="https://fonts.googleapis.com/css?family=Fredoka+One&display=swap"
       rel="stylesheet"
     />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      media="screen"
-      href="css/style.css"
-    />
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
   </head>
   <body>
     <header><h1>Rock Paper Scissors</h1></header>
@@ -27,7 +22,10 @@
           alt="Brasil"
         />USER
       </li>
-      <li class="score">0 - 0</li>
+      <li class="score">
+        <span id="user-score">0 </span> &mdash;
+        <span id="computer-score">0 </span>
+      </li>
       <li class="team-visitor">
         <img
           src="https://cdn.dribbble.com/users/141007/screenshots/4350126/avatar-dribbble.png"
@@ -60,7 +58,8 @@
           alt=""
         />
       </div>
-      <p id="action-message">Make your move</p>
+      <p id="action-message">Make your move.</p>
+      <script src="app.js" charset="utf-8"></script>
     </div>
   </body>
 </html>
