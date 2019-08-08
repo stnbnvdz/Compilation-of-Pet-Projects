@@ -1,4 +1,4 @@
 # Experimenting-Arduino-Programs
 Experimenting More Arduino Programs
 
-![](Compilation-of-Pet-Projects/Experimenting-Arduino-Programs/SmartParkingSystem.jpeg)
+![](Compilation-of-Pet-Projects/Experimenting-Arduino-Programs/Arduino Cheat Sheet.pdf)
