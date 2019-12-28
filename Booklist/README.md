@@ -1,3 +1,3 @@
 # Booklist
 
-![](screenshot.jpeg)
+![](screenshot.jpg)
