@@ -1,0 +1,18 @@
+def isValidSubsequence(array, sequence):
+    #we look at first item in each list
+    #if they are equal we delete the first item in both
+    #if they aren't we delete the first item in array
+    while len(sequence) != 0 and len(array) != 0:
+        if array[0] == sequence [0]:
+            del sequence[0]
+            del array[0]
+        else:
+            del array[0]
+    # if we found all items in list "sequence" it is empty        
+    if len(sequence) == 0:
+        result = True
+    # if "sequence" is not empty, array did not contain
+    # the remaining items in "sequence"    
+    else:
+        result = False
+    return(result)  
