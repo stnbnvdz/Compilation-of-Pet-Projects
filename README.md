@@ -7,7 +7,7 @@ compilation of pet projects i make during fun time.
 * [Booklist-Programs](https://github.com/stnbnvdz/Compilation-of-Personal-Projects/tree/master/Booklist) - Booklist Web App
 * [Carousel Login UI](https://github.com/stnbnvdz/Compilation-of-Pet-Projects/tree/master/Carousel%20Login%20UI) - Login Web UI
 * [Basic Inventory System](https://github.com/stnbnvdz/Compilation-of-Personal-Projects/tree/master/Inventory) - Inventory System PHP PDO 
-* [IT-Skills-Olympics](https://github.com/stnbnvdz/Compilation-of-Pet-Projects/tree/master/IT-Skills-Olympics) - practice before contest
+* [Practice for Contest](https://github.com/stnbnvdz/Compilation-of-Personal-Projects/tree/master/Practice%20for%20Contest) - Practice before contest
 * [Omnifood](https://github.com/stnbnvdz/Compilation-of-Pet-Projects/tree/master/Omnifood) - omni food static page
 * [Responsive-Grid-using-Flexbox](https://github.com/stnbnvdz/Compilation-of-Pet-Projects/tree/master/Responsive-Grid-using-Flexbox) - practicing flexbox
 * [Sample Landing Page](https://github.com/stnbnvdz/Compilation-of-Pet-Projects/tree/master/Sample%20Landing%20Page) - JAB Tech webpage sample
